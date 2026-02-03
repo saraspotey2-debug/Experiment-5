@@ -24,7 +24,7 @@ Study of Dictionary in python.
 1. Start.
 2. To create a dictionary of names and marks.
 3. To take the input of the name from the user.
-4. To print the marks of the student.
+4. To print the marks of the student whose name is input by the user.
 5. End.
 
 # Algorithm-3
